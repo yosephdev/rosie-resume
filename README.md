@@ -1,39 +1,44 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Rosie’s Resume Website
 
-Welcome,
+This is a mini project for the User Centric Frontend Development module of the Code Institute’s Full Stack Web Development course. It is a responsive website that showcases the resume of Rosie Odenkirk, a fictional web developer. The website consists of four pages: home, resume, contact, and CV.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features
+- The home page introduces Rosie and her professional profile, with a photo and a summary of her skills and interests.
+- The resume page displays Rosie’s work history and skill sets in a visually appealing way, using a timeline and progress bars.
+- The contact page allows users to submit project ideas to Rosie via a form, which will be connected to a JavaScript email API in the future.
+- The CV page provides a link to download Rosie’s CV in PDF format, which opens in a new tab.
+- The website is fully responsive and adapts to different screen sizes and devices.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## Technologies Used
+| Technology    | Description                                                                                           | Link           |
+|---------------|-------------------------------------------------------------------------------------------------------|----------------|
+| HTML5         | A markup language used for structuring and presenting content on the web                              | [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| CSS3          | A style sheet language used for describing the presentation of a document written in HTML            | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  |
+| Bootstrap 4   | A popular front-end framework for developing responsive and mobile-first websites                     | [Bootstrap 4](https://getbootstrap.com/) |
+| Font Awesome 5| A web font and icon toolkit based on CSS and Less                                                     | [Font Awesome 5](https://fontawesome.com/) |
+| Google Fonts  | A library of free licensed font families, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android | [Google Fonts](https://fonts.google.com/) |
 
-## Codeanywhere Reminders
+Bootstrap 4 provides a grid system, components, and utilities that make it easy to design a responsive layout, while Font Awesome 5 and Google Fonts offer a variety of icons and fonts that enhance the appearance of the website.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Installation
+To run this project locally, you will need to clone this repository and open index.html in your browser of choice. Alternatively, you can view the live version of the website [here](#).
 
-`python3 -m http.server`
+## Testing
+The resume miniproject will be tested for functionality, usability, compatibility, and responsiveness using the following tools, methods, and frameworks:
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- Chrome DevTools: A set of web developer tools that allows you to inspect, edit, and debug the HTML, CSS, and JavaScript code of your web page, as well as simulate different devices, screen sizes, and network conditions.
+- W3C Markup Validation Service: A tool that checks the validity and syntax of your HTML code and reports any errors or warnings.
+- W3C CSS Validation Service: A tool that checks the validity and syntax of your CSS code and reports any errors or warnings.
+- Lighthouse: A tool that audits the performance, accessibility, best practices, and SEO of your web page and provides a score and a report for each category.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Credits
+The content, media, and assistance for the resume project are obtained from the following sources:
 
-`http_server`
+- Content: The text content for the website was partly inspired by the Code Institute’s video tutorial on how to create the resume project.
+- Assistance: The guidance and support for the resume project were provided by the Code Institute, an online platform that offers courses on web development and software engineering.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Acknowledgments
+I would like to thank the Code Institute, for providing the video tutorial, the starter code, and the learning materials for the resume project.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## Contributing
+I welcome any feedback, suggestions, or contributions to this project. If you are interested, please feel free to contact me or open an issue or a pull request on GitHub. Thank you! 😊
