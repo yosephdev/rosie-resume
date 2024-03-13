@@ -332,7 +332,7 @@ footer {
     height: 12px;
     display: block;
     top: 2.4em;
-    position:absolute;
+    position: absolute;
     left: -6px;
     border-radius: 12px;
     content: "";
@@ -363,4 +363,15 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #e84610;
+}
+
+/*--------------------------------------------Media Queries*/
+
+@media(min-width: 992px) {
+    .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
