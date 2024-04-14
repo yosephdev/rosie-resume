@@ -18,7 +18,14 @@
 
 .bg-color-contact {
     background-color: #fff;
+}
 
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
+.bg-color-groups {
+    background-color: #ffffff;
 }
 
 .ui-menu-color-home {
@@ -35,6 +42,14 @@
 
 .ui-menu-color-download {
     background-color: #525252;
+}
+
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
 }
 
 /*--------------------------------------------Special headings/margins/text*/
