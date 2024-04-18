@@ -380,6 +380,26 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
+#form-feedback {
+    display: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#form-feedback.success {
+    display: block;
+    background-color: #d4edda;
+    color: #155724;
+}
+
+#form-feedback.error {
+    display: block;
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
 /*--------------------------------------------Map*/
 
 div#map {
