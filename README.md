@@ -22,7 +22,7 @@ This is a mini project for the User Centric Frontend Development module of the C
 Bootstrap 4 provides a grid system, components, and utilities that make it easy to design a responsive layout, while Font Awesome 5 and Google Fonts offer a variety of icons and fonts that enhance the appearance of the website.
 
 ## Installation
-To run this project locally, you will need to clone this repository and open index.html in your browser of choice. Alternatively, you can view the live version of the website [here](yosephdev.github.io/rosie-resume/).
+To run this project locally, you will need to clone this repository and open index.html in your browser of choice. Alternatively, you can view the live version of the website [here](https://yosephdev.github.io/rosie-resume/).
 
 ## Testing
 The resume miniproject will be tested for functionality, usability, compatibility, and responsiveness using the following tools, methods, and frameworks:
